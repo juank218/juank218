@@ -19,11 +19,6 @@ Me gusta trabajar con entornos modernos, automatización y desarrollo backend.
 
 ---
 
-## 🏆 Mis trofeos de GitHub
-[![trophy](https://github-profile-trophy.vercel.app/?username=juank218&theme=radical&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 📈 Estadísticas rápidas
 ![Followers](https://img.shields.io/github/followers/juank218?style=for-the-badge&color=blue)
 ![Stars](https://img.shields.io/github/stars/juank218?style=for-the-badge&color=yellow)
@@ -34,6 +29,3 @@ Me gusta trabajar con entornos modernos, automatización y desarrollo backend.
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juank218&theme=radical)
 
 ---
-
-## 💬 Contáctame
-[![Email](https://img.shields.io/badge/Email-juank218%40gmail.com-red)]()
