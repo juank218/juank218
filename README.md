@@ -1,7 +1,6 @@
 # 👋 Hola, soy Juank218!
 
-Desarrollador apasionado por crear soluciones simples, eficientes y llenas de valor.  
-Me gusta trabajar con entornos modernos, automatización y desarrollo backend.
+Data engineer and arificial inteligence. 
 
 ---
 
